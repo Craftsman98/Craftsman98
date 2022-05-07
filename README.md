@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaodongZou)](https://github.com/HaodongZou/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaodongZou&theme=radical)](https://github.com/HaodongZou/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaodongZou&layout=compact&exclude_repo=mandarin_corpus,HaodongZou.github.io)](https://github.com/HaodongZou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaodongZoutheme=radical&layout=compact&exclude_repo=mandarin_corpus,HaodongZou.github.io)](https://github.com/HaodongZou/github-readme-stats)
